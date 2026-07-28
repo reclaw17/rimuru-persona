@@ -1,1 +1,1 @@
-__PLACEHOLDER__
+{{part1_content}}
