@@ -1,3 +1,4 @@
+[![LLM Context](https://badge.forgithub.com/reclaw17/rimuru-persona?maxTokens=50000&badge=context)](https://uithub.com/reclaw17/rimuru-persona?maxTokens=50000)
 # Римуру — persona corpus
 
 Профиль, разбор аниме-личности и корпус диалогов Римуру Tempest
